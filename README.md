@@ -35,7 +35,7 @@
 https://github.com/candicewongls/weather-challenge
 
 ## Live URL
-https://candicewongls.github.io/code-quiz/
+https://candicewongls.github.io/weather-challenge/
 
 ## Credit
 https://www.w3schools.com/js/
