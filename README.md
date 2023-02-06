@@ -20,17 +20,21 @@
 
 ## Usage
 
-* A start button that when clicked a timer starts and the first question appears.
- 
-  * Questions contain buttons for each answer.
-  * 
-  * When answer is clicked, the next question appears
-  * 
-  * If the answer clicked was incorrect then subtract time from the clock
-
-* The quiz should end when all questions are answered or the timer reaches 0.
-
-  * When the game ends, it should display their score and give the user the ability to save their initials and their score
+* Create a weather dashboard with form inputs.
+  * When a user searches for a city they are presented with current and future conditions for that city and that city is added to the search history
+  * When a user views the current weather conditions for that city they are presented with:
+    * The city name
+    * The date
+    * An icon representation of weather conditions
+    * The temperature
+    * The humidity
+    * The wind speed
+  * When a user view future weather conditions for that city they are presented with a 5-day forecast that displays:
+    * The date
+    * An icon representation of weather conditions
+    * The temperature
+    * The humidity
+  * When a user click on a city in the search history they are again presented with current and future conditions for that city
 ## Github Repo
 https://github.com/candicewongls/weather-challenge
 
